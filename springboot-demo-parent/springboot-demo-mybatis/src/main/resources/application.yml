@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: springboot-demo-mybatis
+  datasource:
+    name:
+    password:
+    url: jdbc:mysql://124.71.114.88:3306/dianpingdb?useUnicode=true&characterSet=utf-8&charset=utf-8
+    type: com.alibaba.druid.pool.DruidDataSource
